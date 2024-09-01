@@ -1,0 +1,9 @@
+nome,carga,massa (MeV/c^2),tipo
+Elétron,-1,0.511,férmion
+Próton,+1,938.272,férmion
+Neutrão,0,939.565,férmion
+Fóton,0,0,bosson
+Glúon,0,0,bosson
+Múon,-1,105.658,férmion
+Tau,-1,1776.86,férmion
+Higgs,+0,125.1,bosson
