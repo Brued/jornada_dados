@@ -18,6 +18,7 @@ def create_dask_df():
 
     return grouped_df
 
+
 if __name__ == "__main__":
     import time
 
